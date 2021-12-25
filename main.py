@@ -35,10 +35,10 @@ DATA = {
                 }
             ],
             "nam": {
-                "fnt": "Goebbels",
-                "fn": "Goebbels",
-                "gnt": "Paul Joseph",
-                "gn": "Paul Joseph"
+                "fnt": "Goebbelsffff",
+                "fn": "Goebbelsffff",
+                "gnt": "Paul Josephffff",
+                "gn": "Paul Josephfffff"
             },
             "ver": "1.0.0",
             "dob": "1897-10-29"
